@@ -19,8 +19,13 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="506">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+            <state relative-caret-position="391">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+>>>>>>> 3c8eb76ddd50a10a7cd4e55ee2d6d925c2b3b87f
             </state>
           </provider>
         </entry>
@@ -135,15 +140,23 @@
       <updated>1560097510603</updated>
       <workItem from="1560097514378" duration="577000" />
       <workItem from="1560102476962" duration="3947000" />
+<<<<<<< HEAD
       <workItem from="1560108988763" duration="7872000" />
+=======
+      <workItem from="1560108988763" duration="7409000" />
+>>>>>>> 3c8eb76ddd50a10a7cd4e55ee2d6d925c2b3b87f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="12396000" />
+=======
+    <option name="totallyTimeSpent" value="11933000" />
+>>>>>>> 3c8eb76ddd50a10a7cd4e55ee2d6d925c2b3b87f
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -254,8 +267,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="506">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+>>>>>>> 3c8eb76ddd50a10a7cd4e55ee2d6d925c2b3b87f
         </state>
       </provider>
     </entry>
